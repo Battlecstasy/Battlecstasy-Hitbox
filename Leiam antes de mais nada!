@@ -1,0 +1,10 @@
+Pessoal, então, para aqueles que estão selecionando as imagens, irei dar 2 dicas.
+
+1. Se baseiem nos tipos de movimentos que colocamos para a Cirno.
+Isso irá garantir que um personagem não tenha um movimento a mais que outro, o que FAZ sentido.
+
+2. Para separar onde termina e começa um golpe, movimento ou efeito especial, é só olhar o número da sprite.
+O nome da sprite vai estar, por exemplo, "Cirno_23-0.png".
+Logo, todas imagens que tenham "23-1", "23-2",... serão de um mesmo movimento.
+Lembrando que algumas vezes há sprites repetidas.
+Então, se atentem a isso na hora de escolher para não ter a mesma sprite para dash e andar, por exemplo.
